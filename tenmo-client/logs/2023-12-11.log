@@ -1,0 +1,10 @@
+2023-12-11T15:59:05.4049426 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-11T16:00:16.0710259 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-11T16:10:23.1894194 404 : [{"timestamp":"2023-12-12T00:10:23.175+00:00","status":404,"error":"Not Found","message":"No message available","path":"/users/"}]
+2023-12-11T16:14:23.0566174 404 : [{"timestamp":"2023-12-12T00:14:23.042+00:00","status":404,"error":"Not Found","message":"No message available","path":"/users/"}]
+2023-12-11T16:14:58.7116983 500 : [{"timestamp":"2023-12-12T00:14:58.696+00:00","status":500,"error":"Internal Server Error","message":"User registration failed.","path":"/register"}]
+2023-12-11T16:15:21.4778644 404 : [{"timestamp":"2023-12-12T00:15:21.466+00:00","status":404,"error":"Not Found","message":"No message available","path":"/users/"}]
+2023-12-11T16:15:56.5338942 404 : [{"timestamp":"2023-12-12T00:15:56.523+00:00","status":404,"error":"Not Found","message":"No message available","path":"/users/"}]
+2023-12-11T16:18:10.7709385 405 : [{"timestamp":"2023-12-12T00:18:10.759+00:00","status":405,"error":"Method Not Allowed","message":"Request method 'GET' not supported","path":"/register/"}]
+2023-12-11T16:20:34.5829248 404 : [{"timestamp":"2023-12-12T00:20:34.571+00:00","status":404,"error":"Not Found","message":"No message available","path":"/register/users"}]
+2023-12-11T16:20:54.5967028 404 : [{"timestamp":"2023-12-12T00:20:54.583+00:00","status":404,"error":"Not Found","message":"No message available","path":"/register/users"}]

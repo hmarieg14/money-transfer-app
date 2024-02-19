@@ -1,0 +1,13 @@
+2023-12-09T16:35:11.2692181 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-09T16:35:28.6629956 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-09T16:36:41.0490896 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-12-09T16:40:12.896865 401 : [no body]
+2023-12-09T16:40:37.6387798 401 : [no body]
+2023-12-09T16:40:50.4658089 500 : [{"timestamp":"2023-12-10T00:40:50.461+00:00","status":500,"error":"Internal Server Error","message":"User registration failed.","path":"/register"}]
+2023-12-09T16:41:58.5655337 401 : [no body]
+2023-12-09T16:46:19.35378 401 : [no body]
+2023-12-09T16:46:46.4603072 401 : [no body]
+2023-12-09T17:48:22.8069395 401 : [{"timestamp":"2023-12-10T01:48:22.791+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/account/balance"}]
+2023-12-09T17:50:43.231347 401 : [{"timestamp":"2023-12-10T01:50:43.217+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/account/balance"}]
+2023-12-09T18:11:07.060785 401 : [{"timestamp":"2023-12-10T02:11:07.044+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/account/balance"}]
+2023-12-09T18:22:49.6410129 401 : [{"timestamp":"2023-12-10T02:22:49.626+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/account/balance"}]
